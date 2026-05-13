@@ -5,5 +5,7 @@
 expo-env.d.ts
 # @end expo-cli
 node_modules
-android
-ios
+android/build
+android/.gradle
+android/app/build
+ios/build
