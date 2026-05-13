@@ -13,7 +13,7 @@
     "@expo-google-fonts/vazirmatn": "^0.2.3",
     "@react-native-async-storage/async-storage": "^3.0.2",
     "expo": "~52.0.46",
-    "expo-asset": "^55.0.17",
+    "expo-asset": "~11.0.5",
     "expo-font": "~13.0.4",
     "expo-linear-gradient": "~14.0.2",
     "expo-router": "~4.0.20",
