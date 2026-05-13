@@ -1,0 +1,323 @@
+{
+  "common": {
+    "continue": "ادامه",
+    "skip": "رد کردن",
+    "back": "برگشت",
+    "close": "بستن",
+    "start": "شروع",
+    "done": "تمام",
+    "gotIt": "متوجه شدم!",
+    "listen": "گوش کن",
+    "practice": "تمرین",
+    "tryAgain": "دوباره امتحان کن",
+    "loading": "در حال بارگذاری...",
+    "save": "ذخیره",
+    "cancel": "لغو",
+    "next": "بعدی",
+    "or": "یا",
+    "yes": "بله",
+    "no": "خیر"
+  },
+  "welcome": {
+    "tagline": "معلم انگلیسی هوش مصنوعی شما",
+    "subtitle": "با اطمینان با مکالمات واقعی مبتنی بر هوش مصنوعی صحبت کنید",
+    "getStarted": "شروع کنید",
+    "alreadyHaveAccount": "قبلاً حساب دارید؟ وارد شوید",
+    "languageToggle": "English",
+    "languageToggleEn": "فارسی"
+  },
+  "goals": {
+    "title": "هدف شما چیست؟",
+    "subtitle": "مسیر یادگیری شما را شخصی‌سازی می‌کنیم",
+    "step": "مرحله ۱ از ۳",
+    "items": {
+      "travel": "سفر و گردشگری",
+      "business": "انگلیسی تجاری",
+      "academic": "انگلیسی آکادمیک",
+      "daily": "مکالمات روزمره",
+      "immigration": "مهاجرت",
+      "general": "بهبود کلی"
+    },
+    "emojis": {
+      "travel": "✈️",
+      "business": "💼",
+      "academic": "🎓",
+      "daily": "💬",
+      "immigration": "🌍",
+      "general": "⭐"
+    }
+  },
+  "levels": {
+    "title": "سطح شما چیست؟",
+    "subtitle": "صادقانه بگویید — با یک تست سریع تأیید می‌کنیم",
+    "step": "مرحله ۲ از ۳",
+    "items": {
+      "beginner": "مبتدی",
+      "elementary": "مقدماتی",
+      "intermediate": "متوسط",
+      "advanced": "پیشرفته"
+    },
+    "descriptions": {
+      "beginner": "خیلی کم انگلیسی می‌دانم",
+      "elementary": "می‌توانم مکالمات ساده داشته باشم",
+      "intermediate": "می‌توانم بیان کنم اما اشتباه می‌کنم",
+      "advanced": "روانم اما می‌خواهم بهتر شوم"
+    },
+    "cefr": {
+      "beginner": "A1 - A2",
+      "elementary": "A2 - B1",
+      "intermediate": "B1 - B2",
+      "advanced": "C1 - C2"
+    }
+  },
+  "testIntro": {
+    "title": "بیایید سطح دقیق شما را پیدا کنیم",
+    "subtitle": "یک تست صحبت کردن ۲ دقیقه‌ای با تارا",
+    "step": "مرحله ۳ از ۳",
+    "features": {
+      "speaking": "طبیعی صحبت کنید",
+      "speakingDesc": "فقط صحبت کنید — نیازی به تایپ نیست",
+      "ai": "تحلیل هوش مصنوعی",
+      "aiDesc": "تارا گوش می‌دهد و روانی شما را ارزیابی می‌کند",
+      "result": "نتیجه فوری",
+      "resultDesc": "سطح CEFR خود را فوراً دریافت کنید"
+    },
+    "startTest": "شروع تست صحبت کردن",
+    "skipTest": "رد کردن تست، تنظیم سطح به صورت دستی"
+  },
+  "testLive": {
+    "title": "تست تعیین سطح",
+    "listening": "تارا گوش می‌دهد...",
+    "speaking": "تارا صحبت می‌کند...",
+    "thinking": "در حال تحلیل پاسخ شما...",
+    "tapToSpeak": "برای صحبت لمس کنید",
+    "tapToStop": "برای توقف لمس کنید",
+    "question1": "کمی درباره خودت بگو. چه کاری انجام می‌دهی و چرا می‌خواهی انگلیسی یاد بگیری؟",
+    "question2": "مکانی که دوست داری بازدید کنی و دلیل آن را توصیف کن.",
+    "question3": "برنامه‌های آینده‌ات چیست؟ پنج سال دیگر خودت را کجا می‌بینی؟"
+  },
+  "result": {
+    "title": "سطح انگلیسی شما",
+    "yourLevel": "سطح شما",
+    "subtitle": "بر اساس پاسخ‌های گفتاری شما",
+    "skills": {
+      "pronunciation": "تلفظ",
+      "grammar": "گرامر",
+      "vocabulary": "واژگان",
+      "fluency": "روانی"
+    },
+    "suggestedPath": "مسیر یادگیری پیشنهادی",
+    "pathDesc": "برنامه درسی شخصی‌سازی شده برای سطح B1 شما",
+    "begin": "بیایید شروع کنیم!",
+    "weeklyGoal": "هدف هفتگی: ۵ جلسه"
+  },
+  "home": {
+    "greeting": "صبح بخیر",
+    "greetingEvening": "شب بخیر",
+    "greetingAfternoon": "بعدازظهر بخیر",
+    "dailyGoal": "هدف روزانه",
+    "minutesLeft": "{{count}} دقیقه باقی مانده",
+    "streak": "روز متوالی",
+    "weeklyStreak": "دنباله هفتگی",
+    "talkWithTara": "با تارا صحبت کنید",
+    "talkDesc": "مکالمات واقعی تمرین کنید",
+    "startTalking": "شروع صحبت",
+    "todayLesson": "درس امروز",
+    "suggestions": "پیشنهادها",
+    "lessonsForYou": "درس‌های مناسب برای شما",
+    "xpToNextLevel": "{{xp}} XP تا سطح بعدی",
+    "level": "سطح {{level}}",
+    "continueLesson": "ادامه",
+    "newLesson": "جدید",
+    "completedToday": "امروز تکمیل شد",
+    "wordsLearned": "کلمات آموخته شده",
+    "minutesPracticed": "دقیقه تمرین"
+  },
+  "lessons": {
+    "title": "درس‌ها",
+    "myPath": "مسیر من",
+    "explore": "کشف کنید",
+    "completed": "تکمیل شده",
+    "inProgress": "در حال انجام",
+    "locked": "قفل",
+    "level": "سطح",
+    "duration": "{{min}} دقیقه",
+    "xp": "{{xp}} XP",
+    "categories": {
+      "all": "همه",
+      "speaking": "صحبت کردن",
+      "grammar": "گرامر",
+      "vocabulary": "واژگان",
+      "listening": "شنیداری"
+    },
+    "items": {
+      "smallTalk": "تسلط بر مکالمات کوتاه",
+      "jobInterview": "مهارت‌های مصاحبه شغلی",
+      "travelPhrases": "عبارات سفر",
+      "businessMeetings": "جلسات تجاری",
+      "phoneEnglish": "انگلیسی تلفنی",
+      "presentTense": "حال کامل",
+      "conditionals": "جملات شرطی",
+      "passiveVoice": "وجه مجهول"
+    }
+  },
+  "lessonDetail": {
+    "about": "درباره این درس",
+    "steps": "مراحل درس",
+    "startLesson": "شروع درس",
+    "vocabulary": "واژگان",
+    "dialogue": "دیالوگ",
+    "quiz": "آزمون",
+    "speaking": "صحبت کردن"
+  },
+  "lessonPlayer": {
+    "vocabulary": "واژگان",
+    "tapToHear": "برای شنیدن روی کلمه ضربه بزنید",
+    "nextStep": "مرحله بعدی",
+    "complete": "تکمیل درس",
+    "score": "امتیاز: {{score}}٪"
+  },
+  "talk": {
+    "title": "با تارا صحبت کنید",
+    "subtitle": "مکالمات واقعی تمرین کنید",
+    "topics": "یک موضوع انتخاب کنید",
+    "freeConversation": "مکالمه آزاد",
+    "startSession": "شروع جلسه",
+    "recentTopics": "موضوعات اخیر",
+    "popularTopics": "موضوعات محبوب",
+    "topicItems": {
+      "daily": "زندگی روزمره",
+      "travel": "سفر",
+      "work": "کار و شغل",
+      "hobbies": "سرگرمی‌ها",
+      "news": "رویدادهای جاری",
+      "culture": "فرهنگ و غذا"
+    }
+  },
+  "talkRoom": {
+    "session": "جلسه",
+    "tara": "تارا",
+    "you": "شما",
+    "correction": "تصحیح",
+    "endSession": "پایان جلسه",
+    "tapMic": "میکروفون را لمس کنید",
+    "listening": "در حال گوش دادن...",
+    "speaking": "در حال صحبت...",
+    "thinking": "در حال فکر کردن...",
+    "showCorrection": "نمایش نکته",
+    "timer": "{{min}}:{{sec}}"
+  },
+  "talkSummary": {
+    "title": "خلاصه جلسه",
+    "great": "جلسه عالی!",
+    "duration": "مدت زمان",
+    "xpEarned": "XP کسب شده",
+    "wordsSpoken": "کلمات گفته شده",
+    "corrections": "تصحیحات",
+    "accuracy": "دقت",
+    "talkAgain": "دوباره صحبت کنید",
+    "goHome": "برو به خانه",
+    "mistakes": "اشتباهات برای مرور",
+    "fluency": "امتیاز روانی"
+  },
+  "practice": {
+    "title": "تمرین",
+    "dailyChallenge": "چالش روزانه",
+    "categories": "دسته‌بندی‌ها",
+    "flashcard": "فلش‌کارت روز",
+    "pronunciation": "تلفظ",
+    "mistakes": "اشتباهات من",
+    "wordOfDay": "کلمه روز",
+    "categoryItems": {
+      "pronunciation": "تلفظ",
+      "grammar": "گرامر",
+      "vocabulary": "واژگان",
+      "idioms": "اصطلاحات",
+      "phrasal": "افعال عبارتی",
+      "listening": "شنیداری"
+    }
+  },
+  "pronunciation": {
+    "title": "تمرین تلفظ",
+    "tapToRecord": "برای ضبط لمس کنید",
+    "yourScore": "امتیاز شما",
+    "wordScore": "امتیاز کلمه",
+    "excellent": "عالی!",
+    "good": "خوب",
+    "needsPractice": "نیاز به تمرین دارد",
+    "listenFirst": "اول گوش بده",
+    "recordNow": "الان ضبط کن",
+    "feedback": "بازخورد"
+  },
+  "mistakes": {
+    "title": "اشتباهات من",
+    "reviewAll": "مرور همه",
+    "mastered": "تسلط یافته",
+    "stillLearning": "هنوز در حال یادگیری",
+    "markMastered": "علامت‌گذاری به عنوان تسلط یافته",
+    "empty": "هنوز اشتباهی ذخیره نشده!"
+  },
+  "profile": {
+    "title": "پروفایل",
+    "level": "سطح",
+    "stats": "آمار",
+    "achievements": "دستاوردها",
+    "streak": "روز متوالی",
+    "totalXp": "مجموع XP",
+    "lessonsCompleted": "درس‌های تکمیل شده",
+    "hoursSpoken": "ساعات صحبت",
+    "settings": "تنظیمات",
+    "progress": "پیشرفت من",
+    "signOut": "خروج",
+    "editProfile": "ویرایش پروفایل"
+  },
+  "achievements": {
+    "firstLesson": "اولین درس",
+    "streak7": "۷ روز متوالی",
+    "streak30": "۳۰ روز متوالی",
+    "words100": "۱۰۰ کلمه",
+    "perfectScore": "نمره کامل",
+    "nightOwl": "جغد شب"
+  },
+  "progress": {
+    "title": "پیشرفت من",
+    "thisWeek": "این هفته",
+    "thisMonth": "این ماه",
+    "allTime": "همه زمان‌ها",
+    "skillGrowth": "رشد مهارت",
+    "activityChart": "فعالیت",
+    "streak": "دنباله جاری"
+  },
+  "settings": {
+    "title": "تنظیمات",
+    "app": "برنامه",
+    "darkMode": "حالت تاریک",
+    "language": "زبان برنامه",
+    "notifications": "اعلان‌ها",
+    "dailyReminder": "یادآوری روزانه",
+    "sound": "جلوه‌های صوتی",
+    "haptics": "بازخورد لمسی",
+    "account": "حساب کاربری",
+    "subscription": "اشتراک",
+    "privacy": "سیاست حریم خصوصی",
+    "terms": "شرایط خدمات",
+    "about": "درباره TaraAI",
+    "version": "نسخه {{version}}",
+    "support": "پشتیبانی",
+    "rateApp": "امتیاز به برنامه"
+  },
+  "correction": {
+    "tipLabel": "یک نکته کوچک",
+    "grammarTitle": "گرامر",
+    "youSaid": "شما گفتید",
+    "taraSuggests": "تارا پیشنهاد می‌دهد",
+    "whyTitle": "چرا؟",
+    "hearIt": "بشنوید",
+    "gotIt": "فهمیدم!"
+  },
+  "notFound": {
+    "title": "صفحه پیدا نشد",
+    "message": "صفحه‌ای که دنبالش هستید وجود ندارد.",
+    "goHome": "برو به خانه"
+  }
+}

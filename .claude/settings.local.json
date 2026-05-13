@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(gunzip -c \"/home/amin/.claude/projects/-home-amin-IdeaProjects-TaraApp/1228018c-d91d-4d79-b161-16d245ded859/tool-results/webfetch-1778651663775-6xwt7u.bin\")",
+      "Bash(tar -xO taraai/chats/chat1.md)",
+      "Bash(tar -xO taraai/project/tara-shared.jsx)",
+      "Bash(tar -xO taraai/project/tara-onboarding.jsx)",
+      "Bash(tar -xO taraai/project/tara-home.jsx)",
+      "Bash(tar -xO taraai/project/tara-talk.jsx)",
+      "Bash(tar -xO taraai/project/tara-practice-profile.jsx)"
+    ]
+  }
+}

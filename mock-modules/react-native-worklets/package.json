@@ -1,0 +1,6 @@
+{
+  "name": "react-native-worklets",
+  "version": "1.0.0",
+  "description": "Mock module for react-native-worklets",
+  "main": "index.js"
+}

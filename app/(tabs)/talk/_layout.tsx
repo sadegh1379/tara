@@ -1,0 +1,12 @@
+import React from 'react';
+import { Stack } from 'expo-router';
+
+export default function TalkLayout() {
+  return (
+    <Stack screenOptions={{ headerShown: false, animation: 'slide_from_right' }}>
+      <Stack.Screen name="index" />
+      <Stack.Screen name="room" />
+      <Stack.Screen name="summary" />
+    </Stack>
+  );
+}

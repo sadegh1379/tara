@@ -1,0 +1,323 @@
+{
+  "common": {
+    "continue": "Continue",
+    "skip": "Skip",
+    "back": "Back",
+    "close": "Close",
+    "start": "Start",
+    "done": "Done",
+    "gotIt": "Got it!",
+    "listen": "Listen",
+    "practice": "Practice",
+    "tryAgain": "Try Again",
+    "loading": "Loading...",
+    "save": "Save",
+    "cancel": "Cancel",
+    "next": "Next",
+    "or": "or",
+    "yes": "Yes",
+    "no": "No"
+  },
+  "welcome": {
+    "tagline": "Your AI English Tutor",
+    "subtitle": "Speak confidently with AI-powered real conversations",
+    "getStarted": "Get Started",
+    "alreadyHaveAccount": "Already have an account? Sign in",
+    "languageToggle": "فارسی",
+    "languageToggleEn": "English"
+  },
+  "goals": {
+    "title": "What's your goal?",
+    "subtitle": "We'll personalize your learning path",
+    "step": "Step 1 of 3",
+    "items": {
+      "travel": "Travel & Tourism",
+      "business": "Business English",
+      "academic": "Academic English",
+      "daily": "Daily Conversations",
+      "immigration": "Immigration",
+      "general": "General Improvement"
+    },
+    "emojis": {
+      "travel": "✈️",
+      "business": "💼",
+      "academic": "🎓",
+      "daily": "💬",
+      "immigration": "🌍",
+      "general": "⭐"
+    }
+  },
+  "levels": {
+    "title": "What's your level?",
+    "subtitle": "Be honest — we'll confirm it with a quick test",
+    "step": "Step 2 of 3",
+    "items": {
+      "beginner": "Beginner",
+      "elementary": "Elementary",
+      "intermediate": "Intermediate",
+      "advanced": "Advanced"
+    },
+    "descriptions": {
+      "beginner": "I know very little English",
+      "elementary": "I can handle basic conversations",
+      "intermediate": "I can express myself but make errors",
+      "advanced": "I'm fluent but want to polish"
+    },
+    "cefr": {
+      "beginner": "A1 - A2",
+      "elementary": "A2 - B1",
+      "intermediate": "B1 - B2",
+      "advanced": "C1 - C2"
+    }
+  },
+  "testIntro": {
+    "title": "Let's find your exact level",
+    "subtitle": "A quick 2-minute spoken test with Tara",
+    "step": "Step 3 of 3",
+    "features": {
+      "speaking": "Speak naturally",
+      "speakingDesc": "Just talk — no typing needed",
+      "ai": "AI analysis",
+      "aiDesc": "Tara listens and evaluates your fluency",
+      "result": "Instant result",
+      "resultDesc": "Get your CEFR level immediately"
+    },
+    "startTest": "Start Speaking Test",
+    "skipTest": "Skip test, set level manually"
+  },
+  "testLive": {
+    "title": "Placement Test",
+    "listening": "Tara is listening...",
+    "speaking": "Tara is speaking...",
+    "thinking": "Analyzing your response...",
+    "tapToSpeak": "Tap to speak",
+    "tapToStop": "Tap to stop",
+    "question1": "Tell me a little about yourself. What do you do and what brings you to learning English?",
+    "question2": "Describe a place you love to visit and why you enjoy going there.",
+    "question3": "What are your plans for the future? Where do you see yourself in five years?"
+  },
+  "result": {
+    "title": "Your English Level",
+    "yourLevel": "Your level is",
+    "subtitle": "Based on your spoken responses",
+    "skills": {
+      "pronunciation": "Pronunciation",
+      "grammar": "Grammar",
+      "vocabulary": "Vocabulary",
+      "fluency": "Fluency"
+    },
+    "suggestedPath": "Suggested Learning Path",
+    "pathDesc": "Personalized curriculum for your B1 level",
+    "begin": "Let's Begin!",
+    "weeklyGoal": "Weekly goal: 5 sessions"
+  },
+  "home": {
+    "greeting": "Good morning",
+    "greetingEvening": "Good evening",
+    "greetingAfternoon": "Good afternoon",
+    "dailyGoal": "Daily Goal",
+    "minutesLeft": "{{count}} min left",
+    "streak": "Day Streak",
+    "weeklyStreak": "Weekly Streak",
+    "talkWithTara": "Talk with Tara",
+    "talkDesc": "Practice real conversations",
+    "startTalking": "Start Talking",
+    "todayLesson": "Today's Lesson",
+    "suggestions": "Suggestions",
+    "lessonsForYou": "Lessons for You",
+    "xpToNextLevel": "{{xp}} XP to next level",
+    "level": "Level {{level}}",
+    "continueLesson": "Continue",
+    "newLesson": "New",
+    "completedToday": "Completed Today",
+    "wordsLearned": "Words Learned",
+    "minutesPracticed": "Minutes Practiced"
+  },
+  "lessons": {
+    "title": "Lessons",
+    "myPath": "My Path",
+    "explore": "Explore",
+    "completed": "Completed",
+    "inProgress": "In Progress",
+    "locked": "Locked",
+    "level": "Level",
+    "duration": "{{min}} min",
+    "xp": "{{xp}} XP",
+    "categories": {
+      "all": "All",
+      "speaking": "Speaking",
+      "grammar": "Grammar",
+      "vocabulary": "Vocabulary",
+      "listening": "Listening"
+    },
+    "items": {
+      "smallTalk": "Small Talk Mastery",
+      "jobInterview": "Job Interview Skills",
+      "travelPhrases": "Travel Phrases",
+      "businessMeetings": "Business Meetings",
+      "phoneEnglish": "Phone English",
+      "presentTense": "Present Perfect",
+      "conditionals": "Conditionals",
+      "passiveVoice": "Passive Voice"
+    }
+  },
+  "lessonDetail": {
+    "about": "About this lesson",
+    "steps": "Lesson Steps",
+    "startLesson": "Start Lesson",
+    "vocabulary": "Vocabulary",
+    "dialogue": "Dialogue",
+    "quiz": "Quiz",
+    "speaking": "Speaking"
+  },
+  "lessonPlayer": {
+    "vocabulary": "Vocabulary",
+    "tapToHear": "Tap a word to hear it",
+    "nextStep": "Next Step",
+    "complete": "Complete Lesson",
+    "score": "Score: {{score}}%"
+  },
+  "talk": {
+    "title": "Talk with Tara",
+    "subtitle": "Practice real conversations",
+    "topics": "Choose a topic",
+    "freeConversation": "Free Conversation",
+    "startSession": "Start Session",
+    "recentTopics": "Recent Topics",
+    "popularTopics": "Popular Topics",
+    "topicItems": {
+      "daily": "Daily Life",
+      "travel": "Travel",
+      "work": "Work & Career",
+      "hobbies": "Hobbies",
+      "news": "Current Events",
+      "culture": "Culture & Food"
+    }
+  },
+  "talkRoom": {
+    "session": "Session",
+    "tara": "Tara",
+    "you": "You",
+    "correction": "Correction",
+    "endSession": "End Session",
+    "tapMic": "Tap mic to speak",
+    "listening": "Listening...",
+    "speaking": "Speaking...",
+    "thinking": "Thinking...",
+    "showCorrection": "Show tip",
+    "timer": "{{min}}:{{sec}}"
+  },
+  "talkSummary": {
+    "title": "Session Summary",
+    "great": "Great session!",
+    "duration": "Duration",
+    "xpEarned": "XP Earned",
+    "wordsSpoken": "Words Spoken",
+    "corrections": "Corrections",
+    "accuracy": "Accuracy",
+    "talkAgain": "Talk Again",
+    "goHome": "Go to Home",
+    "mistakes": "Mistakes to Review",
+    "fluency": "Fluency Score"
+  },
+  "practice": {
+    "title": "Practice",
+    "dailyChallenge": "Daily Challenge",
+    "categories": "Categories",
+    "flashcard": "Flashcard of the Day",
+    "pronunciation": "Pronunciation",
+    "mistakes": "My Mistakes",
+    "wordOfDay": "Word of the Day",
+    "categoryItems": {
+      "pronunciation": "Pronunciation",
+      "grammar": "Grammar",
+      "vocabulary": "Vocabulary",
+      "idioms": "Idioms",
+      "phrasal": "Phrasal Verbs",
+      "listening": "Listening"
+    }
+  },
+  "pronunciation": {
+    "title": "Pronunciation Drill",
+    "tapToRecord": "Tap to record",
+    "yourScore": "Your Score",
+    "wordScore": "Word Score",
+    "excellent": "Excellent!",
+    "good": "Good",
+    "needsPractice": "Needs Practice",
+    "listenFirst": "Listen First",
+    "recordNow": "Record Now",
+    "feedback": "Feedback"
+  },
+  "mistakes": {
+    "title": "My Mistakes",
+    "reviewAll": "Review All",
+    "mastered": "Mastered",
+    "stillLearning": "Still Learning",
+    "markMastered": "Mark as Mastered",
+    "empty": "No mistakes saved yet!"
+  },
+  "profile": {
+    "title": "Profile",
+    "level": "Level",
+    "stats": "Stats",
+    "achievements": "Achievements",
+    "streak": "Day Streak",
+    "totalXp": "Total XP",
+    "lessonsCompleted": "Lessons Completed",
+    "hoursSpoken": "Hours Spoken",
+    "settings": "Settings",
+    "progress": "My Progress",
+    "signOut": "Sign Out",
+    "editProfile": "Edit Profile"
+  },
+  "achievements": {
+    "firstLesson": "First Lesson",
+    "streak7": "7-Day Streak",
+    "streak30": "30-Day Streak",
+    "words100": "100 Words",
+    "perfectScore": "Perfect Score",
+    "nightOwl": "Night Owl"
+  },
+  "progress": {
+    "title": "My Progress",
+    "thisWeek": "This Week",
+    "thisMonth": "This Month",
+    "allTime": "All Time",
+    "skillGrowth": "Skill Growth",
+    "activityChart": "Activity",
+    "streak": "Current Streak"
+  },
+  "settings": {
+    "title": "Settings",
+    "app": "App",
+    "darkMode": "Dark Mode",
+    "language": "App Language",
+    "notifications": "Notifications",
+    "dailyReminder": "Daily Reminder",
+    "sound": "Sound Effects",
+    "haptics": "Haptic Feedback",
+    "account": "Account",
+    "subscription": "Subscription",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "about": "About TaraAI",
+    "version": "Version {{version}}",
+    "support": "Support",
+    "rateApp": "Rate the App"
+  },
+  "correction": {
+    "tipLabel": "A small tip",
+    "grammarTitle": "Grammar",
+    "youSaid": "You said",
+    "taraSuggests": "Tara suggests",
+    "whyTitle": "Why?",
+    "hearIt": "Hear it",
+    "gotIt": "Got it!"
+  },
+  "notFound": {
+    "title": "Page Not Found",
+    "message": "The page you're looking for doesn't exist.",
+    "goHome": "Go to Home"
+  }
+}
